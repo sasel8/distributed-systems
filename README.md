@@ -1,1 +1,1 @@
-# distributed-systems
+# distributed-systems proje tanıtım linki:https://drive.google.com/drive/u/0/my-drive
